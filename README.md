@@ -13,3 +13,6 @@ Password : admin
 ## Login sebagai Operator
 Username : angga <br/>
 Password : angga
+
+Selengkapnya di https://www.plajarikode.com/2020/01/membuat-aplikasi-inventaris-database.html <br/>
+Website: https://www.plajarikode.com
